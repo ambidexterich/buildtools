@@ -7,4 +7,5 @@ RUN set -ex; \
             g++ \
             make \
             curl \
+        ; \
         rm -rf /var/lib/apt/lists/*
