@@ -1,7 +1,7 @@
 # buildtools
 https://hub.docker.com/r/ambidexterich/buildtools
 
-A base image that includes build tools to compile various other tools based on `debian:stretchy`
+A base image that includes build tools to compile various other tools based on `debian:stretchy-slim`
 
 ## Tags
 
