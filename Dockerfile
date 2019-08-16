@@ -1,1 +1,1 @@
-FROM debian:stretch
+FROM debian:stretch-slim
